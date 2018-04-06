@@ -1,3 +1,6 @@
+转自 <a href="https://github.com/moranzcw/Computer-Networking-A-Top-Down-Approach-NOTES">moranzcw</a>
+仅为学习方便copy而来
+
 # 《计算机网络－自顶向下方法(原书第6版)》笔记
 
 《计算机网络－自顶向下方法(原书第6版)》编程作业的解答和代码，Wireshark实验的官方文档的翻译。
